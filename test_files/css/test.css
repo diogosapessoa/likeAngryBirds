@@ -1,0 +1,29 @@
+* {
+  
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  
+  background-color: #C8EBFE;
+  background-image: url("../img/bg-body.jpg");
+  background-repeat: no-repeat;
+}
+
+#cloud {
+  
+  background-image: url("../img/bg-body-left.png");
+  background-repeat: no-repeat;
+  width: 203px;
+  height: 292px;
+  float: left;
+}
+
+#container {
+  
+  margin: auto;
+  padding: 100px;
+  width: 640px;
+  height: 480px;
+}
