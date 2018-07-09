@@ -1,3 +1,1 @@
 $ mxmlc -library-path+=./lib/QuickB2.swc -target-player=10.0.0 -source-path=./ -output=./bin/likeAngryBirds.swf -- ./src/Main.as
-
-someday i'll refactor the code :P
